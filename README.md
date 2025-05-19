@@ -1,6 +1,8 @@
 # PsycheFlowGen
 AI工作流生成抖音爆款心理知识短视频（AI generates short videos of psychological knowledge）
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Xikcn/PsycheFlowGen)
+
 ## 项目展示
 https://github.com/user-attachments/assets/72f1e2e2-7600-498d-9ca8-4e16df72328e
 
