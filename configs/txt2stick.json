@@ -5,7 +5,7 @@
       "steps": 20,
       "cfg": 7,
       "sampler_name": "dpm_2",
-      "scheduler": "karras",
+      "scheduler": "exponential",
       "denoise": 1,
       "model": [
         "10",
@@ -108,7 +108,7 @@
     "inputs": {
       "lora_name": "火柴人_v1.0.safetensors",
       "strength_model": 1,
-      "strength_clip": 2.8000000000000003,
+      "strength_clip": 3.0000000000000003,
       "model": [
         "4",
         0

@@ -1,0 +1,314 @@
+{
+  "分镜结构": {
+    "封面提示词": {
+      "正向提示词": [
+        "Black and white stick figures",
+        "Tall thin figure in long gown standing at bar",
+        "Broken legs wrapped in straw",
+        "Hands dragging body forward",
+        "Pure white background",
+        "Minimalist ink drawing style"
+      ],
+      "负向提示词": [
+        "Color",
+        "Detailed facial features",
+        "Complex background",
+        "Realistic shading"
+      ]
+    },
+    "分镜列表": [
+      {
+        "分镜编号": 1,
+        "标题": "长衫酒客",
+        "时长": 7,
+        "字幕": {
+          "中文": "站着喝酒穿长衫的，只我孔乙己",
+          "英文": "I'm the only long-gowned drinker standing at the bar"
+        },
+        "正向提示词": [
+          "Black and white stick figure",
+          "Tall thin man in tattered long gown",
+          "Holding wine bowl",
+          "Standing near bar counter",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Sitting posture",
+          "Modern clothing",
+          "Background objects"
+        ]
+      },
+      {
+        "分镜编号": 2,
+        "标题": "酒店阶级",
+        "时长": 8,
+        "字幕": {
+          "中文": "短衣帮站喝四文酒，长衫客坐饮十几文",
+          "英文": "Short-coat men stand for cheap wine, long-gowned sit for feast"
+        },
+        "正向提示词": [
+          "Stick figure class divide",
+          "Left: standing laborers in short coats",
+          "Right: seated scholars in long gowns",
+          "Curved counter separating groups",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Mixed clothing styles",
+          "Detailed furniture",
+          "Food details"
+        ]
+      },
+      {
+        "分镜编号": 3,
+        "标题": "伤痕质问",
+        "时长": 6,
+        "字幕": {
+          "中文": "孔乙己，脸上又添新伤疤了！",
+          "英文": "Kong Yiji! New scars on your face again!"
+        },
+        "正向提示词": [
+          "Group of stick figures pointing",
+          "Central figure with scar lines on face",
+          "Angry crowd gestures",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Individual facial details",
+          "Background objects",
+          "Weapons"
+        ]
+      },
+      {
+        "分镜编号": 4,
+        "标题": "窃书辩白",
+        "时长": 8,
+        "字幕": {
+          "中文": "窃书算偷么？读书人的事！",
+          "英文": "Taking books isn't stealing! Scholar's privilege!"
+        },
+        "正向提示词": [
+          "Stick figure waving arms angrily",
+          "Book symbols floating nearby",
+          "Crowd laughing with open mouths",
+          "Defensive body posture",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed books",
+          "Library setting",
+          "Realistic textures"
+        ]
+      },
+      {
+        "分镜编号": 5,
+        "标题": "粉板记账",
+        "时长": 6,
+        "字幕": {
+          "中文": "欠账记粉板，月内定还清",
+          "英文": "Debts on chalkboard, always paid monthly"
+        },
+        "正向提示词": [
+          "Stick figure handing coins to bartender",
+          "Chalkboard with Chinese characters",
+          "Wiping gesture on board",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed writing",
+          "Modern cash register",
+          "Background clutter"
+        ]
+      },
+      {
+        "分镜编号": 6,
+        "标题": "秀才之痛",
+        "时长": 7,
+        "字幕": {
+          "中文": "连半个秀才都捞不到？",
+          "英文": "Couldn't even become a scholar?"
+        },
+        "正向提示词": [
+          "Stick figure shrinking posture",
+          "Question marks overhead",
+          "Others mocking with pointing fingers",
+          "Broken scholar hat symbol",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed facial expressions",
+          "School setting",
+          "Realistic objects"
+        ]
+      },
+      {
+        "分镜编号": 7,
+        "标题": "茴字教学",
+        "时长": 8,
+        "字幕": {
+          "中文": "茴香豆的茴字，有四样写法",
+          "英文": "'Hui' character has four writing variations"
+        },
+        "正向提示词": [
+          "Stick figure writing in air",
+          "Four floating Chinese characters",
+          "Young waiter turning away",
+          "Finger tracing motions",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed paper",
+          "Ink brushes",
+          "Classroom setting"
+        ]
+      },
+      {
+        "分镜编号": 8,
+        "标题": "分豆童趣",
+        "时长": 7,
+        "字幕": {
+          "中文": "分茴香豆，孩子一人一颗",
+          "英文": "Sharing beans, one for each child"
+        },
+        "正向提示词": [
+          "Stick figure handing dots to children",
+          "Multiple small figures reaching out",
+          "Bowl with simple dot patterns",
+          "Smiling face symbols",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed food",
+          "Individual facial features",
+          "Table setting"
+        ]
+      },
+      {
+        "分镜编号": 9,
+        "标题": "护豆名言",
+        "时长": 6,
+        "字幕": {
+          "中文": "多乎哉？不多也！",
+          "英文": "Many? Indeed not many!"
+        },
+        "正向提示词": [
+          "Stick figure covering bowl with hands",
+          "Children with question marks",
+          "Shaking head movement lines",
+          "Classical pose",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed bowl",
+          "Background objects",
+          "Modern gestures"
+        ]
+      },
+      {
+        "分镜编号": 10,
+        "标题": "断腿传闻",
+        "时长": 8,
+        "字幕": {
+          "中文": "偷丁举人书，腿被打折了！",
+          "英文": "Caught stealing from Squire Ding, legs broken!"
+        },
+        "正向提示词": [
+          "Stick figure lying on ground",
+          "Stick-wielding figure above",
+          "Broken leg symbols",
+          "Book icons nearby",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Blood details",
+          "Realistic violence",
+          "Background scene"
+        ]
+      },
+      {
+        "分镜编号": 11,
+        "标题": "爬行归来",
+        "时长": 9,
+        "字幕": {
+          "中文": "用手走来的孔乙己，满手是泥",
+          "英文": "Kong Yiji arrives crawling, hands covered in mud"
+        },
+        "正向提示词": [
+          "Stick figure dragging body on ground",
+          "Broken legs wrapped in straw",
+          "Mud marks on hands",
+          "Looking up at counter",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Wheelchair",
+          "Prosthetics",
+          "Detailed ground texture"
+        ]
+      },
+      {
+        "分镜编号": 12,
+        "标题": "最后四文",
+        "时长": 7,
+        "字幕": {
+          "中文": "现钱四文，温一碗酒",
+          "英文": "Four coins in hand, for one bowl of wine"
+        },
+        "正向提示词": [
+          "Muddy hand extending coins",
+          "Bartender taking payment",
+          "Single wine bowl icon",
+          "Downcast face posture",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed coins",
+          "Counter details",
+          "Multiple characters"
+        ]
+      },
+      {
+        "分镜编号": 13,
+        "标题": "死亡欠账",
+        "时长": 8,
+        "字幕": {
+          "中文": "十九文钱，永远挂在粉板上",
+          "英文": "Nineteen coins owed, forever on the chalkboard"
+        },
+        "正向提示词": [
+          "Chalkboard with Chinese characters",
+          "Ghostly stick figure fading away",
+          "Bartender shaking head",
+          "Question mark floating",
+          "Pure white background"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed writing",
+          "Realistic ghost",
+          "Background details"
+        ]
+      }
+    ],
+    "总时长": 96,
+    "核心策略": [
+      "严格黑白火柴人风格：纯白背景+单线人物",
+      "平均7秒分镜节奏，符合短视频传播规律",
+      "关键情节视觉化：断腿爬行/粉板记账等标志场景",
+      "字幕双关语处理：多乎哉/窃书非偷等经典台词",
+      "悲剧内核强化：通过肢体语言表现尊严崩塌过程"
+    ]
+  }
+}

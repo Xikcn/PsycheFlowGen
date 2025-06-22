@@ -1,0 +1,21 @@
+{
+    "分镜结构": {
+        "封面提示词": {
+            "主题": "从祥林嫂的角度讲《彷徨》",
+            "正向提示词": ["old chinese woman", "traditional clothing", "sad expression"],
+            "负向提示词": ["modern", "cartoon", "anime"]
+        },
+        "分镜列表": [
+            {
+                "分镜编号": 1,
+                "时长": 10,
+                "字幕": {
+                    "中文": "我是祥林嫂，一个饱经沧桑的农村妇女",
+                    "英文": "I am Xianglin's Wife, a weathered rural woman"
+                },
+                "正向提示词": ["old chinese woman", "traditional clothing", "sad expression"],
+                "负向提示词": ["modern", "cartoon", "anime"]
+            }
+        ]
+    }
+} 

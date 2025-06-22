@@ -1,0 +1,389 @@
+{
+  "分镜结构": {
+    "封面提示词": {
+      "正向提示词": ["Black and white stick figure woman", "Snow falling on hunched shoulders", "Bamboo begging staff", "Pure white background", "Minimalist ink style"],
+      "负向提示词": ["Color", "Detailed facial features", "Background scenery", "Realistic textures"]
+    },
+    "分镜列表": [
+      {
+        "分镜编号": 1,
+        "时长": 7,
+        "字幕": {
+          "中文": "我叫祥林嫂，但这不是我本来的名字，只是大家这样叫我。",
+          "英文": "They call me Xianglin's Wife - not my real name, just what everyone calls me."
+        },
+        "正向提示词": ["Stick figure woman bowing head", "Floating name tags circling figure", "Minimalist composition", "Pure white background"],
+        "负向提示词": ["Color", "Detailed face", "Background objects"]
+      },
+      {
+        "分镜编号": 2,
+        "时长": 8,
+        "字幕": {
+          "中文": "我的命，就像寒冬腊月的雪，冰冷、沉重，最终消融得无影无踪。",
+          "英文": "My fate is like winter snow - cold, heavy, finally vanishing without trace."
+        },
+        "正向提示词": ["Stick figure melting into snowflakes", "Heavy snow symbols on shoulders", "Disintegration effect", "Negative space transition"],
+        "负向提示词": ["Realistic snow", "Color gradients", "Detailed environment"]
+      },
+      {
+        "分镜编号": 3,
+        "时长": 5,
+        "字幕": {
+          "中文": "春天，我的丈夫死了。",
+          "英文": "In spring, my husband died."
+        },
+        "正向提示词": ["Stick figure kneeling beside grave", "Withered flower symbol", "Downward lines indicating sorrow"],
+        "负向提示词": ["Detailed grave", "Color", "Multiple characters"]
+      },
+      {
+        "分镜编号": 4,
+        "时长": 9,
+        "字幕": {
+          "中文": "在婆婆严苛的目光和小叔子沉默的注视下，日子太难熬了。",
+          "英文": "Under mother-in-law's harsh gaze and brother-in-law's silent stare, life became unbearable."
+        },
+        "正向提示词": ["Three stick figures in triangle", "Sharp eyes projecting beams", "Pressure lines from above", "Cowering central figure"],
+        "负向提示词": ["Detailed expressions", "Furniture", "Color"]
+      },
+      {
+        "分镜编号": 5,
+        "时长": 8,
+        "字幕": {
+          "中文": "听说鲁镇要找女工，我趁着开春的忙乱，逃了出来。",
+          "英文": "Hearing Luzhen needed maids, I escaped during spring chaos."
+        },
+        "正向提示词": ["Figure running with bundle", "Dashed escape path", "Village outline in distance"],
+        "负向提示词": ["Detailed landscape", "Color", "Facial features"]
+      },
+      {
+        "分镜编号": 6,
+        "时长": 8,
+        "字幕": {
+          "中文": "卫老婆子把我带到了鲁四老爷家。老爷嫌弃我是寡妇，皱眉头，但太太看我手脚麻利、老实肯干，留下了我。",
+          "英文": "Old Wei brought me to Master Lu's house. He frowned at my widow status, but mistress kept me for my diligence."
+        },
+        "正向提示词": ["Three stick figures facing each other", "Master with furrowed brow lines", "Mistress nodding approval", "Bowed figure with bundle"],
+        "负向提示词": ["Detailed interiors", "Color", "Multiple props"]
+      },
+      {
+        "分镜编号": 7,
+        "时长": 10,
+        "字幕": {
+          "中文": "在鲁家，我拼命干活。扫尘、洗地、杀鸡宰鹅、煮整夜的福礼……我一点也不觉得累。",
+          "英文": "At Lu's, I worked desperately: sweeping, washing, slaughtering fowl, cooking rituals all night... yet felt no fatigue."
+        },
+        "正向提示词": ["Figure in continuous motion", "Multiple arms effect showing tasks", "Sweeping/killing/cooking symbols", "Clock showing night hours"],
+        "负向提示词": ["Realistic tools", "Color", "Background details"]
+      },
+      {
+        "分镜编号": 8,
+        "时长": 8,
+        "字幕": {
+          "中文": "这里管饭，没人打骂，口粮边甚至能尝到一丝笑影，脸上也渐渐有了点肉。",
+          "英文": "Regular meals, no beatings - even smiles by the food pot. My face regained flesh."
+        },
+        "正向提示词": ["Figure holding bowl with curved mouth", "Rising body lines showing weight gain", "Hand offering rice gesture"],
+        "负向提示词": ["Detailed food", "Color", "Background kitchen"]
+      },
+      {
+        "分镜编号": 9,
+        "时长": 7,
+        "字幕": {
+          "中文": "年底的忙碌里，我感到了久违的踏实。我以为，靠自己的力气，总能活下去。",
+          "英文": "In year-end bustle, I felt rare stability. Believed I could survive by my own labor."
+        },
+        "正向提示词": ["Upright figure carrying heavy load", "Steady ground lines", "Confident posture"],
+        "负向提示词": ["Shaky lines", "Bowed posture", "Color effects"]
+      },
+      {
+        "分镜编号": 10,
+        "时长": 8,
+        "字幕": {
+          "中文": "好景不长。新年刚过，我在河边淘米，远远看见夫家的堂伯！",
+          "英文": "But happiness was brief. After New Year, while washing rice by river, I spotted my husband's uncle!"
+        },
+        "正向提示词": ["Figure frozen at riverside", "Pointing hand in distance", "Rice bowl tipping over", "Shock lines radiating"],
+        "负向提示词": ["Detailed river", "Color", "Facial expression"]
+      },
+      {
+        "分镜编号": 11,
+        "时长": 7,
+        "字幕": {
+          "中文": "我慌了神，预感大祸临头。",
+          "英文": "Panic-stricken, I sensed disaster coming."
+        },
+        "正向提示词": ["Trembling stick figure", "Crisscrossed anxiety lines", "Dark cloud symbol overhead"],
+        "负向提示词": ["Calm posture", "Bright symbols", "Color"]
+      },
+      {
+        "分镜编号": 12,
+        "时长": 9,
+        "字幕": {
+          "中文": "果然，没几天，婆婆带着人来了。她赔着笑，说要我回去帮忙。",
+          "英文": "Sure enough, days later mother-in-law arrived with men. Smiling falsely, she demanded my return 'to help'."
+        },
+        "正向提示词": ["Group of figures approaching", "Mother-in-law with exaggerated smile", "Grasping hands gesture", "Cowering figure retreating"],
+        "负向提示词": ["Detailed clothing", "Color", "Background buildings"]
+      },
+      {
+        "分镜编号": 13,
+        "时长": 8,
+        "字幕": {
+          "中文": "四老爷说“既是婆婆要回去，没话说”。我的工钱，一文没动，全被婆婆拿走了。",
+          "英文": "Master Lu said: 'Since mother-in-law demands it.' My untouched wages were all taken."
+        },
+        "正向提示词": ["Money bag transferring hands", "Master Lu waving dismissal", "Empty hands gesture"],
+        "负向提示词": ["Detailed coins", "Color", "Facial expressions"]
+      },
+      {
+        "分镜编号": 14,
+        "时长": 9,
+        "字幕": {
+          "中文": "我假装去淘米，其实是想逃，可来不及了！白篷船里跳出两个男人，死死抱住我，拖进船里。",
+          "英文": "Pretending to wash rice, I tried to flee - too late! Men from white-awning boat grabbed and dragged me in."
+        },
+        "正向提示词": ["Struggling figure held by two men", "Boat outline with simple awning", "Drag marks on ground"],
+        "负向提示词": ["Detailed boat", "Water effects", "Color"]
+      },
+      {
+        "分镜编号": 15,
+        "时长": 8,
+        "字幕": {
+          "中文": "我哭喊，挣扎，但嘴被堵住。我被捆着带回了山里。",
+          "英文": "I screamed and fought, but they gagged me. Tied up, I was taken to the mountains."
+        },
+        "正向提示词": ["Bound figure with X-marked mouth", "Mountain symbols approaching", "Tear drops floating upward"],
+        "负向提示词": ["Rope details", "Landscape details", "Color"]
+      },
+      {
+        "分镜编号": 16,
+        "时长": 9,
+        "字幕": {
+          "中文": "原来，婆婆早已把我卖给了深山里贺家墺的贺老六，为了八十千钱给小叔子娶媳妇。",
+          "英文": "Mother-in-law had sold me to He Lao-liu in remote mountains - 80,000 cash for brother-in-law's bride."
+        },
+        "正向提示词": ["Money bag with 80k symbol", "Arrow pointing to mountain village", "Wedding procession silhouette"],
+        "负向提示词": ["Detailed faces", "Color", "Complex scene"]
+      },
+      {
+        "分镜编号": 17,
+        "时长": 10,
+        "字幕": {
+          "中文": "花轿抬到贺家，我拼死反抗！嚎骂、挣扎，喉咙都哑了。",
+          "英文": "At He's house, I resisted desperately! Shouting, struggling till my voice gave out."
+        },
+        "正向提示词": ["Wedding sedan with figure bursting out", "Sound waves from open mouth", "Broken ropes on ground"],
+        "负向提示词": ["Detailed sedan chair", "Color", "Multiple characters"]
+      },
+      {
+        "分镜编号": 18,
+        "时长": 9,
+        "字幕": {
+          "中文": "他们强按着我拜堂，我一头撞在香案角上，鲜血直流……我想死，死了就干净了。",
+          "英文": "They forced me to bow at altar. I smashed my head on incense table - blood gushed... I wished for death's cleanliness."
+        },
+        "正向提示词": ["Figure lunging toward altar corner", "Impact lines with blood droplets", "Drooping body with blank eyes"],
+        "负向提示词": ["Realistic blood", "Detailed furniture", "Color"]
+      },
+      {
+        "分镜编号": 19,
+        "时长": 8,
+        "字幕": {
+          "中文": "贺老六是个老实人，力气大，待我还好。我认命了。",
+          "英文": "He Lao-liu was decent, strong, treated me alright. I resigned to fate."
+        },
+        "正向提示词": ["Two figures sitting side by side", "Man with broad shoulders outline", "Woman with lowered head"],
+        "负向提示词": ["Romantic pose", "Smiling faces", "Color"]
+      },
+      {
+        "分镜编号": 20,
+        "时长": 7,
+        "字幕": {
+          "中文": "年底，我生了个儿子阿毛。",
+          "英文": "Year's end, I bore a son - Ah Mao."
+        },
+        "正向提示词": ["Figure holding baby outline", "Radiating warmth lines", "Small bundle with smile symbol"],
+        "负向提示词": ["Detailed baby", "Color", "Background"]
+      },
+      {
+        "分镜编号": 21,
+        "时长": 10,
+        "字幕": {
+          "中文": "日子虽然苦，但阿毛是我全部的希望。看着他胖乎乎的小脸，我觉得老天总算给了我一点补偿。",
+          "英文": "Life remained hard, but Ah Mao was my hope. His chubby face felt like heaven's compensation."
+        },
+        "正向提示词": ["Figure gazing at child", "Heart symbol connecting them", "Sunbeam from above"],
+        "负向提示词": ["Detailed features", "Color", "Complex setting"]
+      },
+      {
+        "分镜编号": 22,
+        "时长": 9,
+        "字幕": {
+          "中文": "男人有把力气，房子是自己的，上头没有婆婆管束，我以为苦难到头了。",
+          "英文": "Man's strength, our own house, no mother-in-law - I thought suffering had ended."
+        },
+        "正向提示词": ["House outline with stick figures", "Broken chain symbol", "Upward sun rays"],
+        "负向提示词": ["Detailed house", "Color", "Landscape"]
+      },
+      {
+        "分镜编号": 23,
+        "时长": 8,
+        "字幕": {
+          "中文": "谁知命运如此狠毒！男人得了伤寒，本来快好了，一碗冷饭送了命。",
+          "英文": "How cruel fate proved! Husband caught typhoid, nearly recovered, then died from cold rice."
+        },
+        "正向提示词": ["Figure collapsing with bowl", "Shattered rice grains", "Skull symbol appearing"],
+        "负向提示词": ["Realistic food", "Sickbed details", "Color"]
+      },
+      {
+        "分镜编号": 24,
+        "时长": 9,
+        "字幕": {
+          "中文": "留下我和阿毛孤儿寡母。我咬着牙，打柴、摘茶、养蚕，再苦也要把阿毛拉扯大。",
+          "英文": "Left with Ah Mao, I gritted teeth: chopping wood, picking tea, raising silkworms - determined to raise him."
+        },
+        "正向提示词": ["Figure working with child on back", "Multiple tools in hands", "Steely resolve lines in posture"],
+        "负向提示词": ["Detailed tools", "Background scenery", "Color"]
+      },
+      {
+        "分镜编号": 25,
+        "时长": 12,
+        "字幕": {
+          "中文": "春天快完了。那天，我早早开了门，让阿毛坐在门槛上剥豆——他很听话的。",
+          "英文": "Spring's end. That day I opened door early, sat Ah Mao on threshold shelling peas - he was so obedient."
+        },
+        "正向提示词": ["Small figure on doorway", "Pea pods in hands", "Mother looking back from distance"],
+        "负向提示词": ["Detailed house", "Color", "Facial features"]
+      },
+      {
+        "分镜编号": 26,
+        "时长": 10,
+        "字幕": {
+          "中文": "我在屋后劈柴、淘米。米下了锅，我叫“阿毛”，没有应。",
+          "英文": "I chopped wood behind house, washed rice. When rice boiled, I called 'Ah Mao!' No answer."
+        },
+        "正向提示词": ["Figure with axe mid-swing", "Turning head with question mark", "Empty doorway silhouette"],
+        "负向提示词": ["Detailed background", "Color", "Multiple actions"]
+      },
+      {
+        "分镜编号": 27,
+        "时长": 10,
+        "字幕": {
+          "中文": "出去一看，豆撒了一地，阿毛不见了！我心胆俱裂，疯了一样央人去寻。",
+          "英文": "Outside: peas scattered everywhere, Ah Mao gone! Heart shattered, I begged neighbors frantically."
+        },
+        "正向提示词": ["Scattered peas on ground", "Broken heart symbol above figure", "Running legs with speed lines"],
+        "负向提示词": ["Detailed ground", "Color", "Background characters"]
+      },
+      {
+        "分镜编号": 28,
+        "时长": 12,
+        "字幕": {
+          "中文": "在山墺里，刺柴上挂着他的一只小鞋……再进去，我的阿毛躺在草窠里，肚子……被狼掏空了，小手还紧紧攥着小篮……",
+          "英文": "In mountain hollow, thornbush held his tiny shoe... Further in, my Ah Mao lay in grass nest, belly... hollowed by wolf, tiny hand still clutching basket..."
+        },
+        "正向提示词": ["Small shoe on bush", "Grass nest outline with still figure", "Empty basket in hand", "Wolf shadow receding"],
+        "负向提示词": ["Gore details", "Color", "Realistic wolf"]
+      },
+      {
+        "分镜编号": 29,
+        "时长": 8,
+        "字幕": {
+          "中文": "我的天塌了！我真傻啊，单知道雪天有狼，不知道春天也会有狼！",
+          "英文": "My sky collapsed! How foolish! Knew wolves in winter snow, not spring!"
+        },
+        "正向提示词": ["Figure collapsing to knees", "Shattered sky symbol", "Wolf paw prints circling"],
+        "负向提示词": ["Detailed landscape", "Color", "Tears"]
+      },
+      {
+        "分镜编号": 30,
+        "时长": 9,
+        "字幕": {
+          "中文": "大伯收走了房子，赶我出门。我走投无路，只能再回鲁镇求太太收留。",
+          "英文": "Elder brother took our house, drove me out. Desperate, I returned to Luzhen begging mistress."
+        },
+        "正向提示词": ["Figure evicted from house outline", "Long road back to town", "Bowed posture at gate"],
+        "负向提示词": ["Detailed buildings", "Color", "Facial expressions"]
+      },
+      {
+        "分镜编号": 31,
+        "时长": 11,
+        "字幕": {
+          "中文": "但这次，一切都不同了。老爷更嫌弃我，说我“败坏风俗”。太太虽然让我干活，但祭祀时，我刚要去摆酒杯、拿烛台，她就慌忙喊：“祥林嫂，你放着罢！”",
+          "英文": "But now everything changed. Master called me 'morally corrupt'. Though mistress let me work, at rituals when I reached for wine cups, she'd cry: 'Xianglin's Wife, don't touch!'"
+        },
+        "正向提示词": ["Hand reaching toward ritual items", "Sharp stop gesture from mistress", "Shock waves hitting figure", "Cups and candles floating away"],
+        "负向提示词": ["Detailed altar", "Color", "Multiple characters"]
+      },
+      {
+        "分镜编号": 32,
+        "时长": 10,
+        "字幕": {
+          "中文": "镇上的人看我的眼神也变了，笑容冷冷的。我忍不住跟人讲阿毛的事，“我真傻，真的……”。",
+          "英文": "Townfolk's eyes turned cold. I couldn't stop telling Ah Mao's story: 'I was so foolish, truly...'"
+        },
+        "正向提示词": ["Figure surrounded by cold stare lines", "Speech bubble with repeated words", "Isolation effect"],
+        "负向提示词": ["Detailed crowd", "Color", "Varied expressions"]
+      },
+      {
+        "分镜编号": 33,
+        "时长": 12,
+        "字幕": {
+          "中文": "柳妈说嫁了两个男人，到了阴司会被锯成两半分给死鬼男人！我吓得魂飞魄散。唯一的办法是捐条门槛给千人踏万人跨赎罪。",
+          "英文": "Liu Ma said marrying twice meant hell demons would saw me in half! Only solution: donate threshold for thousands to tread, redeeming sins."
+        },
+        "正向提示词": ["Saw blade dividing stick figure", "Trembling figure before temple", "Threshold with many footprints"],
+        "负向提示词": ["Hell imagery", "Color", "Detailed temple"]
+      },
+      {
+        "分镜编号": 34,
+        "时长": 10,
+        "字幕": {
+          "中文": "我拼命攒钱捐了门槛。可太太仍喊“你放着罢！”时，心一下掉进冰窟窿。",
+          "英文": "After desperately saving to donate threshold, when mistress still shouted 'Don't touch!', my heart plunged into icy abyss."
+        },
+        "正向提示词": ["Hand withdrawing from ritual items", "Heart symbol falling into cracks", "Ice crystals forming around figure"],
+        "负向提示词": ["Color", "Detailed expressions", "Background"]
+      },
+      {
+        "分镜编号": 35,
+        "时长": 10,
+        "字幕": {
+          "中文": "我成了乞丐。快过年时问识字的“老爷”：“人死后有没有魂灵？”我盼着见阿毛，又怕被锯开……他说“说不清”。",
+          "英文": "Became a beggar. Near New Year I asked literate 'master': 'Do souls exist after death?' Hoping to see Ah Mao, fearing the saw... He muttered: 'Unclear'."
+        },
+        "正向提示词": ["Beggar figure with broken bowl", "Question mark between two figures", "Contrasting hope/fear symbols"],
+        "负向提示词": ["Detailed clothing", "Color", "Background"]
+      },
+      {
+        "分镜编号": 36,
+        "时长": 12,
+        "字幕": {
+          "中文": "鲁镇祝福的雪夜，我死了。四老爷骂我“不早不迟，偏偏这时候——可见是个谬种！”短工说“穷死的”。",
+          "英文": "On Luzhen's blessing night, I died. Master Lu cursed: 'Of all times to die - proves her evil!' Laborer said: 'Died of poverty'."
+        },
+        "正向提示词": ["Fallen figure in snow", "Fireworks overhead", "Disembodied pointing fingers", "Empty begging bowl"],
+        "负向提示词": ["Gore", "Color", "Detailed death scene"]
+      },
+      {
+        "分镜编号": 37,
+        "时长": 10,
+        "字幕": {
+          "中文": "我的生命在喧嚣的祝福声中，像一粒尘埃飘散了。天地圣众醉醺醺享受着供奉，谁会在意一个被碾碎的灵魂呢？",
+          "英文": "My life scattered like dust amid festive noise. Heaven's saints drunkenly enjoyed offerings - who cared about a crushed soul?"
+        },
+        "正向提示词": ["Floating dust particles fading", "Feasting deity silhouettes", "Broken soul symbol underfoot", "Pure white background"],
+        "负向提示词": ["Color", "Detailed deities", "Background scenery"]
+      }
+    ],
+    "总时长": 360,
+    "核心策略": [
+      "严格逐字转化原文为字幕",
+      "火柴人动作精确匹配文本动词（如'撞香案'→冲击动态）",
+      "抽象情感可视化（'心掉进冰窟窿'→冰晶+坠落心形）",
+      "保持单一叙述者视角贯穿",
+      "平均分镜时长9秒（按中文字数/4计算）",
+      "黑白负空间强化悲剧氛围"
+    ]
+  }
+}

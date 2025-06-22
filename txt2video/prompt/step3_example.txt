@@ -1,0 +1,150 @@
+{
+  "分镜结构": {
+    "封面提示词": {
+      "正向提示词": ["Black and white stick figure woman", "Snow falling on hunched shoulders", "Bamboo begging staff", "Pure white background", "Minimalist ink style"],
+      "负向提示词": ["Color", "Detailed facial features", "Background scenery", "Realistic textures"]
+    },
+    "分镜列表": [
+      {
+        "分镜编号": 1,
+        "时长": 7,
+        "字幕": {
+          "中文": "我叫祥林嫂，但这不是我本来的名字，只是大家这样叫我。",
+          "英文": "They call me Xianglin's Wife - not my real name, just what everyone calls me."
+        },
+        "正向提示词": ["Stick figure woman bowing head", "Floating name tags circling figure", "Minimalist composition", "Pure white background"],
+        "负向提示词": ["Color", "Detailed face", "Background objects"]
+      },
+      {
+        "分镜编号": 2,
+        "时长": 8,
+        "字幕": {
+          "中文": "我的命，就像寒冬腊月的雪，冰冷、沉重，最终消融得无影无踪。",
+          "英文": "My fate is like winter snow - cold, heavy, finally vanishing without trace."
+        },
+        "正向提示词": ["Stick figure melting into snowflakes", "Heavy snow symbols on shoulders", "Disintegration effect", "Negative space transition"],
+        "负向提示词": ["Realistic snow", "Color gradients", "Detailed environment"]
+      },
+      {
+        "分镜编号": 3,
+        "时长": 5,
+        "字幕": {
+          "中文": "春天，我的丈夫死了。",
+          "英文": "In spring, my husband died."
+        },
+        "正向提示词": ["Stick figure kneeling beside grave", "Withered flower symbol", "Downward lines indicating sorrow"],
+        "负向提示词": ["Detailed grave", "Color", "Multiple characters"]
+      },
+      {
+        "分镜编号": 4,
+        "时长": 9,
+        "字幕": {
+          "中文": "在婆婆严苛的目光和小叔子沉默的注视下，日子太难熬了。",
+          "英文": "Under mother-in-law's harsh gaze and brother-in-law's silent stare, life became unbearable."
+        },
+        "正向提示词": ["Three stick figures in triangle", "Sharp eyes projecting beams", "Pressure lines from above", "Cowering central figure"],
+        "负向提示词": ["Detailed expressions", "Furniture", "Color"]
+      },
+      {
+        "分镜编号": 5,
+        "时长": 8,
+        "字幕": {
+          "中文": "听说鲁镇要找女工，我趁着开春的忙乱，逃了出来。",
+          "英文": "Hearing Luzhen needed maids, I escaped during spring chaos."
+        },
+        "正向提示词": ["Figure running with bundle", "Dashed escape path", "Village outline in distance"],
+        "负向提示词": ["Detailed landscape", "Color", "Facial features"]
+      },
+      {
+        "分镜编号": 6,
+        "时长": 8,
+        "字幕": {
+          "中文": "卫老婆子把我带到了鲁四老爷家。老爷嫌弃我是寡妇，皱眉头，但太太看我手脚麻利、老实肯干，留下了我。",
+          "英文": "Old Wei brought me to Master Lu's house. He frowned at my widow status, but mistress kept me for my diligence."
+        },
+        "正向提示词": ["Three stick figures facing each other", "Master with furrowed brow lines", "Mistress nodding approval", "Bowed figure with bundle"],
+        "负向提示词": ["Detailed interiors", "Color", "Multiple props"]
+      },
+      {
+        "分镜编号": 7,
+        "时长": 10,
+        "字幕": {
+          "中文": "在鲁家，我拼命干活。扫尘、洗地、杀鸡宰鹅、煮整夜的福礼……我一点也不觉得累。",
+          "英文": "At Lu's, I worked desperately: sweeping, washing, slaughtering fowl, cooking rituals all night... yet felt no fatigue."
+        },
+        "正向提示词": ["Figure in continuous motion", "Multiple arms effect showing tasks", "Sweeping/killing/cooking symbols", "Clock showing night hours"],
+        "负向提示词": ["Realistic tools", "Color", "Background details"]
+      },
+      {
+        "分镜编号": 8,
+        "时长": 8,
+        "字幕": {
+          "中文": "这里管饭，没人打骂，口粮边甚至能尝到一丝笑影，脸上也渐渐有了点肉。",
+          "英文": "Regular meals, no beatings - even smiles by the food pot. My face regained flesh."
+        },
+        "正向提示词": ["Figure holding bowl with curved mouth", "Rising body lines showing weight gain", "Hand offering rice gesture"],
+        "负向提示词": ["Detailed food", "Color", "Background kitchen"]
+      },
+      {
+        "分镜编号": 9,
+        "时长": 7,
+        "字幕": {
+          "中文": "年底的忙碌里，我感到了久违的踏实。我以为，靠自己的力气，总能活下去。",
+          "英文": "In year-end bustle, I felt rare stability. Believed I could survive by my own labor."
+        },
+        "正向提示词": ["Upright figure carrying heavy load", "Steady ground lines", "Confident posture"],
+        "负向提示词": ["Shaky lines", "Bowed posture", "Color effects"]
+      },
+      {
+        "分镜编号": 10,
+        "时长": 8,
+        "字幕": {
+          "中文": "好景不长。新年刚过，我在河边淘米，远远看见夫家的堂伯！",
+          "英文": "But happiness was brief. After New Year, while washing rice by river, I spotted my husband's uncle!"
+        },
+        "正向提示词": ["Figure frozen at riverside", "Pointing hand in distance", "Rice bowl tipping over", "Shock lines radiating"],
+        "负向提示词": ["Detailed river", "Color", "Facial expression"]
+      },
+      {
+        "分镜编号": 11,
+        "时长": 7,
+        "字幕": {
+          "中文": "我慌了神，预感大祸临头。",
+          "英文": "Panic-stricken, I sensed disaster coming."
+        },
+        "正向提示词": ["Trembling stick figure", "Crisscrossed anxiety lines", "Dark cloud symbol overhead"],
+        "负向提示词": ["Calm posture", "Bright symbols", "Color"]
+      },
+      {
+        "分镜编号": 12,
+        "时长": 9,
+        "字幕": {
+          "中文": "果然，没几天，婆婆带着人来了。她赔着笑，说要我回去帮忙。",
+          "英文": "Sure enough, days later mother-in-law arrived with men. Smiling falsely, she demanded my return 'to help'."
+        },
+        "正向提示词": ["Group of figures approaching", "Mother-in-law with exaggerated smile", "Grasping hands gesture", "Cowering figure retreating"],
+        "负向提示词": ["Detailed clothing", "Color", "Background buildings"]
+      },
+      {
+        "分镜编号": 13,
+        "时长": 8,
+        "字幕": {
+          "中文": "四老爷说“既是婆婆要回去，没话说”。我的工钱，一文没动，全被婆婆拿走了。",
+          "英文": "Master Lu said: 'Since mother-in-law demands it.' My untouched wages were all taken."
+        },
+        "正向提示词": ["Money bag transferring hands", "Master Lu waving dismissal", "Empty hands gesture"],
+        "负向提示词": ["Detailed coins", "Color", "Facial expressions"]
+      }
+      ...
+    ],
+    "总时长": 350...,
+    "核心策略": [
+      "严格逐字转化原文为字幕",
+      "火柴人动作精确匹配文本动词（如'撞香案'→冲击动态）",
+      "抽象情感可视化（'心掉进冰窟窿'→冰晶+坠落心形）",
+      "保持单一叙述者视角贯穿",
+      "平均分镜时长9秒（按中文字数/4计算）",
+      "黑白负空间强化悲剧氛围"
+    ]
+  }
+}

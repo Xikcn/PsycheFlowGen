@@ -1,0 +1,649 @@
+{
+  "分镜结构": {
+    "封面提示词": {
+      "正向提示词": [
+        "Black and white stick figure man leaning on bar",
+        "Floating sake cup fragments",
+        "Frozen winter window",
+        "Pure white background",
+        "Minimalist ink wash style"
+      ],
+      "负向提示词": [
+        "Color",
+        "Detailed facial expressions",
+        "Background details",
+        "Realistic textures"
+      ]
+    },
+    "分镜列表": [
+      {
+        "分镜编号": "1",
+        "时长": 8,
+        "字幕": {
+          "中文": "我叫吕纬甫。没想到，在S城这个阴冷的冬日，在这家叫'一石居'的旧酒楼里，竟撞见了十年前的老朋友。",
+          "英文": "I'm Lü Weifu. Never expected to meet my old friend at 'One Stone Inn' on this gloomy winter day."
+        },
+        "正向提示词": [
+          "Stick figure gazing out window",
+          "Floating frozen breath symbols",
+          "Broken signboard with '一石居'",
+          "Minimalist bar counter"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed interior",
+          "Facial features"
+        ]
+      },
+      {
+        "分镜编号": "2",
+        "时长": 7,
+        "字幕": {
+          "中文": "他刚从北方回来探亲。这相遇，于我而言，意外又难堪。",
+          "英文": "He just returned from the north. This encounter is both unexpected and awkward."
+        },
+        "正向提示词": [
+          "Two stick figures facing each other",
+          "Zigzag tension lines between them",
+          "Suitcase symbol near one figure"
+        ],
+        "负向提示词": [
+          "Handshake gesture",
+          "Smiling faces",
+          "Color"
+        ]
+      },
+      {
+        "分镜编号": "3",
+        "时长": 8,
+        "字幕": {
+          "中文": "他先认出了我，惊叫我的名字。我一时踌躇，才坐下。",
+          "英文": "He recognized me first, shouting my name. I hesitated before sitting."
+        },
+        "正向提示词": [
+          "Figure pointing with shock lines",
+          "Second figure shrinking posture",
+          "Chair being pulled out slowly"
+        ],
+        "负向提示词": [
+          "Detailed furniture",
+          "Color",
+          "Mouth opening"
+        ]
+      },
+      {
+        "分镜编号": "4",
+        "时长": 9,
+        "字幕": {
+          "中文": "我知道自己变了，变得连行动都迟缓了，不再是当年那个敏捷精悍、意气风发的青年。",
+          "英文": "I know I've changed - movements sluggish, no longer that agile young man full of passion."
+        },
+        "正向提示词": [
+          "Transparent ghost figure of younger self",
+          "Present figure with heavy anchor symbol",
+          "Fading energy lines around body"
+        ],
+        "负向提示词": [
+          "Color transition",
+          "Detailed youth figure",
+          "Background"
+        ]
+      },
+      {
+        "分镜编号": "5",
+        "时长": 7,
+        "字幕": {
+          "中文": "他眼中的惊讶和随后流露出的悲伤、不快，我都看得清楚。",
+          "英文": "I clearly saw his shock, then sadness and displeasure."
+        },
+        "正向提示词": [
+          "Close-up of stick figure eyes",
+          "Tear symbol transforming to storm cloud",
+          "Arrow pointing to observing figure"
+        ],
+        "负向提示词": [
+          "Realistic eyes",
+          "Color",
+          "Full face"
+        ]
+      },
+      {
+        "分镜编号": "6",
+        "时长": 8,
+        "字幕": {
+          "中文": "他问我这些年如何？在太原做什么？我苦笑着回答：'教书，在一个同乡家里。'",
+          "英文": "'How have you been?' he asked. 'Teaching in a fellow villager's home,' I answered bitterly."
+        },
+        "正向提示词": [
+          "Stick figure with curved down mouth",
+          "Chalkboard symbol floating nearby",
+          "Question marks above listener"
+        ],
+        "负向提示词": [
+          "Detailed classroom",
+          "Color",
+          "Books"
+        ]
+      },
+      {
+        "分镜编号": "7",
+        "时长": 9,
+        "字幕": {
+          "中文": "再往前呢？'无非做了些无聊的事，等于什么也没做。'这话不假，回首这些年，只觉得一片虚无。",
+          "英文": "'And before?' 'Just boring things - amounting to nothing.' True words. Looking back, only emptiness remains."
+        },
+        "正向提示词": [
+          "Figure shrugging with empty hands",
+          "Floating clock dissolving into dots",
+          "Fading footprints behind"
+        ],
+        "负向提示词": [
+          "Solid objects",
+          "Color",
+          "Achievement symbols"
+        ]
+      },
+      {
+        "分镜编号": "8",
+        "时长": 7,
+        "字幕": {
+          "中文": "看着他，我不禁想起年少时嘲笑苍蝇绕圈飞的可笑和可怜。",
+          "英文": "Seeing him, I recalled how we mocked flies circling pointlessly."
+        },
+        "正向提示词": [
+          "Transparent memory bubble: young figures laughing",
+          "Floating fly with circular path",
+          "Pointing finger gestures"
+        ],
+        "负向提示词": [
+          "Detailed insects",
+          "Color",
+          "Background scene"
+        ]
+      },
+      {
+        "分镜编号": "9",
+        "时长": 8,
+        "字幕": {
+          "中文": "现在才明白，我自己就是那只苍蝇，兜兜转转，又飞回了原地。",
+          "英文": "Now I understand: I am that fly, circling back to where I started."
+        },
+        "正向提示词": [
+          "Stick figure with fly wings",
+          "Spiral path ending at inn symbol",
+          "Arrows forming endless loop"
+        ],
+        "负向提示词": [
+          "Actual wings",
+          "Color",
+          "Forward progress"
+        ]
+      },
+      {
+        "分镜编号": "10",
+        "时长": 6,
+        "字幕": {
+          "中文": "我讲起了这次回南方的缘由——两件母亲交代的'任务'。",
+          "英文": "I explained why I returned south: two 'tasks' from mother."
+        },
+        "正向提示词": [
+          "Envelope with 'mother' character",
+          "Dotted journey arrow pointing south",
+          "Two checkmark symbols"
+        ],
+        "负向提示词": [
+          "Detailed letter",
+          "Color",
+          "Female figure"
+        ]
+      },
+      {
+        "分镜编号": "11",
+        "时长": 8,
+        "字幕": {
+          "中文": "迁葬小弟：我三岁夭折的小弟葬在乡下。今年春天，堂兄来信说坟被水浸，快塌进河里了。",
+          "英文": "Relocating brother: My three-year-old brother's grave was being eroded by river."
+        },
+        "正向提示词": [
+          "Small grave mound near wavy lines",
+          "Crack symbols on earth",
+          "Arrow from letter to grave"
+        ],
+        "负向提示词": [
+          "Water details",
+          "Color",
+          "Child figure"
+        ]
+      },
+      {
+        "分镜编号": "12",
+        "时长": 9,
+        "字幕": {
+          "中文": "带着雇来的工人到了坟地。河水果然已逼近。坟头平了。我鼓起勇气下令掘坟。",
+          "英文": "With workers at gravesite. River encroaching. Grave flattened. I ordered the exhumation."
+        },
+        "正向提示词": [
+          "Three stick figures near riverbank",
+          "Shovel symbols in motion",
+          "Broken grave marker"
+        ],
+        "负向提示词": [
+          "Detailed tools",
+          "Color",
+          "Facial expressions"
+        ]
+      },
+      {
+        "分镜编号": "13",
+        "时长": 8,
+        "字幕": {
+          "中文": "掘开一看，棺木早已朽烂成渣。更意外的是，里面什么都没有！",
+          "英文": "Dug open: coffin rotted to dust. Nothing inside - completely empty!"
+        },
+        "正向提示词": [
+          "Open pit with dust cloud",
+          "Giant question mark overhead",
+          "Empty rectangle outline"
+        ],
+        "负向提示词": [
+          "Coffin remains",
+          "Color",
+          "Bones"
+        ]
+      },
+      {
+        "分镜编号": "14",
+        "时长": 10,
+        "字幕": {
+          "中文": "被褥、衣服、骸骨，甚至传说中最难腐烂的头发，都消失得无影无踪。",
+          "英文": "Blankets, clothes, bones - even the supposedly indestructible hair - all vanished without trace."
+        },
+        "正向提示词": [
+          "Floating disappearance symbols",
+          "Dashed outlines of missing items",
+          "Arrow pointing to void"
+        ],
+        "负向提示词": [
+          "Actual objects",
+          "Color",
+          "Remnants"
+        ]
+      },
+      {
+        "分镜编号": "15",
+        "时长": 9,
+        "字幕": {
+          "中文": "但我还是用棉花裹了些坟坑里的泥土，装进新买的小棺材，运到父亲坟旁重新埋了。",
+          "英文": "Yet I wrapped grave soil in cotton, placed it in new coffin, reburied beside father's grave."
+        },
+        "正向提示词": [
+          "Hands wrapping dirt bundle",
+          "Small box with soil symbol",
+          "Procession to new grave site"
+        ],
+        "负向提示词": [
+          "Detailed packaging",
+          "Color",
+          "Facial determination"
+        ]
+      },
+      {
+        "分镜编号": "16",
+        "时长": 8,
+        "字幕": {
+          "中文": "这纯粹是为了'骗骗母亲，使她安心些'。整个过程，充满了徒劳和自欺欺人的荒诞感。",
+          "英文": "Purely to 'deceive mother, ease her mind.' The whole process reeked of futility and self-deception."
+        },
+        "正向提示词": [
+          "Figure bowing before grave",
+          "Floating puppet strings on hands",
+          "Melting clock symbol"
+        ],
+        "负向提示词": [
+          "Sincere emotion",
+          "Color",
+          "Comforting scene"
+        ]
+      },
+      {
+        "分镜编号": "17",
+        "时长": 9,
+        "字幕": {
+          "中文": "母亲还记挂着旧邻居船户长富的女儿阿顺。多年前，她因羡慕红剪绒花哭求不得还挨了打。",
+          "英文": "Mother remembered Ashun, neighbor's daughter who was beaten for coveting red paper flowers."
+        },
+        "正向提示词": [
+          "Stick figure girl reaching for flower",
+          "Broken flower symbol on ground",
+          "Stick figure adult with raised hand"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed faces",
+          "Background objects"
+        ]
+      },
+      {
+        "分镜编号": "18",
+        "时长": 8,
+        "字幕": {
+          "中文": "母亲让我买两朵送她。我对这差事倒有几分真心乐意。",
+          "英文": "Mother tasked me to bring her two flowers. I was genuinely willing."
+        },
+        "正向提示词": [
+          "Hand holding two flower symbols",
+          "Uplifted posture with light lines"
+        ],
+        "负向提示词": [
+          "Detailed flowers",
+          "Color",
+          "Facial expression"
+        ]
+      },
+      {
+        "分镜编号": "19",
+        "时长": 10,
+        "字幕": {
+          "中文": "记得前年回来，在长富家吃荞麦粉。粉难吃极了，糖多得齁人。",
+          "英文": "Two years ago at Changfu's, I ate awful buckwheat noodles - oversweetened."
+        },
+        "正向提示词": [
+          "Stick figure forcing down bowl",
+          "Exaggerated sugar crystals above",
+          "Distorted bowl shape"
+        ],
+        "负向提示词": [
+          "Realistic food",
+          "Color",
+          "Table setting"
+        ]
+      },
+      {
+        "分镜编号": "20",
+        "时长": 9,
+        "字幕": {
+          "中文": "但看到阿顺害怕又期待的眼神，我不忍让她失望，硬是灌了下去。",
+          "英文": "But seeing Ashun's anxious eyes, I forced myself to finish it."
+        },
+        "正向提示词": [
+          "Peeking stick figure in corner",
+          "Arrow from eyes to eating figure",
+          "Empty bowl with sweat drops"
+        ],
+        "负向提示词": [
+          "Detailed interior",
+          "Color",
+          "Multiple characters"
+        ]
+      },
+      {
+        "分镜编号": "21",
+        "时长": 8,
+        "字幕": {
+          "中文": "就为那一刻她忍着的得意笑容，我曾真心祝她一生幸福。",
+          "英文": "For her suppressed smile when clearing bowls, I truly wished her happiness."
+        },
+        "正向提示词": [
+          "Figure with curved mouth hidden by hand",
+          "Floating heart symbol",
+          "Stacked bowls being carried"
+        ],
+        "负向提示词": [
+          "Full smile",
+          "Color",
+          "Detailed scene"
+        ]
+      },
+      {
+        "分镜编号": "22",
+        "时长": 7,
+        "字幕": {
+          "中文": "这次我特意在济南买了大红的和粉红的剪绒花。",
+          "英文": "This time I specially bought red and pink paper flowers in Jinan."
+        },
+        "正向提示词": [
+          "Hand holding two distinct flower shapes",
+          "Travel bag symbol nearby"
+        ],
+        "负向提示词": [
+          "Color details",
+          "Background",
+          "Floral patterns"
+        ]
+      },
+      {
+        "分镜编号": "23",
+        "时长": 8,
+        "字幕": {
+          "中文": "下午去找长富，扑了个空。他儿子恶狠狠地质问我找他姐干什么。",
+          "英文": "Afternoon visit to Changfu failed. His son snarled: 'Why seek my sister?'"
+        },
+        "正向提示词": [
+          "Angry stick figure blocking door",
+          "Question mark bubble",
+          "Empty house outline"
+        ],
+        "负向提示词": [
+          "Detailed house",
+          "Color",
+          "Facial features"
+        ]
+      },
+      {
+        "分镜编号": "24",
+        "时长": 9,
+        "字幕": {
+          "中文": "老发奶奶的消息像一盆冷水：阿顺去年就病死了！病因是积劳成疾。",
+          "英文": "Old Granny Fa's news hit like ice water: 'Ashun died last year! From overwork.'"
+        },
+        "正向提示词": [
+          "Stick figure melting posture",
+          "Ice cube symbols falling",
+          "Broken heart symbol"
+        ],
+        "负向提示词": [
+          "Realistic water",
+          "Color",
+          "Sickbed"
+        ]
+      },
+      {
+        "分镜编号": "25",
+        "时长": 10,
+        "字幕": {
+          "中文": "压垮她的最后一根稻草是伯伯长庚的恶毒挑拨：'你的男人比我还不如！'",
+          "英文": "The last straw was Uncle Changgeng's venom: 'Your man is worse than me!'"
+        },
+        "正向提示词": [
+          "Stick figure with devil horns",
+          "Speech bubble with poison symbols",
+          "Crumpling female figure"
+        ],
+        "负向提示词": [
+          "Realistic features",
+          "Color",
+          "Background"
+        ]
+      },
+      {
+        "分镜编号": "26",
+        "时长": 8,
+        "字幕": {
+          "中文": "这话让阿顺忧惧交加，终日以泪洗面，最终香消玉殒。",
+          "英文": "This made Ashun anxious and tearful daily, until she perished."
+        },
+        "正向提示词": [
+          "Figure dissolving into teardrops",
+          "Fading outline with downward arrows",
+          "Empty space where figure stood"
+        ],
+        "负向提示词": [
+          "Corpse",
+          "Color",
+          "Bed"
+        ]
+      },
+      {
+        "分镜编号": "27",
+        "时长": 7,
+        "字幕": {
+          "中文": "老发奶奶叹息阿顺没福气戴这花。我心头一片冰凉。",
+          "英文": "Granny Fa sighed: 'Ashun had no fortune to wear these.' My heart froze."
+        },
+        "正向提示词": [
+          "Flowers floating over grave mound",
+          "Cracked ice symbol over heart area"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed grave",
+          "Flower details"
+        ]
+      },
+      {
+        "分镜编号": "28",
+        "时长": 9,
+        "字幕": {
+          "中文": "最终，我把花转送给了阿顺那见我就躲的妹妹阿昭。",
+          "英文": "Finally I gave the flowers to Azhao - Ashun's sister who avoids me."
+        },
+        "正向提示词": [
+          "Flowers thrust toward retreating figure",
+          "Dashed escape path",
+          "Reluctant hand taking flowers"
+        ],
+        "负向提示词": [
+          "Smiling faces",
+          "Color",
+          "Grateful posture"
+        ]
+      },
+      {
+        "分镜编号": "29",
+        "时长": 8,
+        "字幕": {
+          "中文": "老友对我教'子曰诗云'感到诧异。当年我们拔神像胡子、讨论改革的豪情安在？",
+          "英文": "My friend was shocked I teach classics. Where's our passion for reform?"
+        },
+        "正向提示词": [
+          "Bubble: young figures pulling beard",
+          "Contrasted with stick figure holding book",
+          "Floating question mark"
+        ],
+        "负向提示词": [
+          "Detailed statues",
+          "Color",
+          "Crowd scene"
+        ]
+      },
+      {
+        "分镜编号": "30",
+        "时长": 9,
+        "字幕": {
+          "中文": "'这些无聊的事算什么？只要随随便便……'我清楚自己的变化：敷敷衍衍，模模糊糊。",
+          "英文": "'What are these boring things? Just drifting...' I know I've become vague and evasive."
+        },
+        "正向提示词": [
+          "Figure with melting edges",
+          "Floating cloud symbols",
+          "Broken speech bubbles"
+        ],
+        "负向提示词": [
+          "Sharp lines",
+          "Color",
+          "Clear shapes"
+        ]
+      },
+      {
+        "分镜编号": "31",
+        "时长": 8,
+        "字幕": {
+          "中文": "我怕当年朋友不认我了。感激老友的期待，但这更让我不安。",
+          "英文": "Fear old friends won't recognize me. Grateful for his hope, yet uneasy."
+        },
+        "正向提示词": [
+          "Two figures with question mark between",
+          "Arrow of hope piercing cloud",
+          "Anxiety lines radiating"
+        ],
+        "负向提示词": [
+          "Handshake",
+          "Color",
+          "Smiling faces"
+        ]
+      },
+      {
+        "分镜编号": "32",
+        "时长": 7,
+        "字幕": {
+          "中文": "他付了账（我已懒得客套），我们一同走出酒楼。",
+          "英文": "He paid (I skipped courtesies), we exited the inn together."
+        },
+        "正向提示词": [
+          "Money bag changing hands",
+          "Two figures passing doorway",
+          "Tilted inn sign"
+        ],
+        "负向提示词": [
+          "Detailed payment",
+          "Color",
+          "Interior"
+        ]
+      },
+      {
+        "分镜编号": "33",
+        "时长": 8,
+        "字幕": {
+          "中文": "寒风夹着雪片扑来。他住的旅馆与我方向相反，我们在门口分别。",
+          "英文": "Icy wind with snowflakes hit us. His inn opposite direction - we parted at door."
+        },
+        "正向提示词": [
+          "Two figures back-to-back",
+          "Arrow signs pointing opposite ways",
+          "Snowflake symbols swirling"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed buildings",
+          "Facial expressions"
+        ]
+      },
+      {
+        "分镜编号": "34",
+        "时长": 9,
+        "字幕": {
+          "中文": "看着他走向风雪中的背影，我独自走向旅馆。风雪打在脸上，竟有种奇异的清醒感。",
+          "英文": "Watching his back vanish in snow, I walked alone. Snow on face brought strange clarity."
+        },
+        "正向提示词": [
+          "Solitary figure in snowstorm",
+          "Fading second figure in distance",
+          "Snowflakes as sharp lines on face"
+        ],
+        "负向提示词": [
+          "Color",
+          "Detailed landscape",
+          "Multiple characters"
+        ]
+      },
+      {
+        "分镜编号": "35",
+        "时长": 8,
+        "字幕": {
+          "中文": "天色昏黄，街道和房屋都笼罩在密织的雪网里。",
+          "英文": "Dusk yellow sky, streets and houses shrouded in dense snow-net."
+        },
+        "正向提示词": [
+          "Stick figure in snow grid",
+          "Simplified house outlines",
+          "Low sun symbol with snow webs"
+        ],
+        "负向提示词": [
+          "Detailed architecture",
+          "Color gradients",
+          "Realistic snow"
+        ]
+      }
+    ]
+  }
+}

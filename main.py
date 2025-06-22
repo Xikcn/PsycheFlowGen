@@ -19,8 +19,8 @@ load_dotenv()
 
 def main(topic:str="爱情三脚猫",keyframes:int=8):
     llm = ChatDeepSeek(model=os.getenv('MODEL_NAME'))
-    file_prompt1 =  open(file="./prompt/Generate_article.txt", mode="r", encoding="utf-8").read()
-    file_prompt2 =  open(file="./prompt/Generating_sub_mirror.txt", mode="r", encoding="utf-8").read()
+    file_prompt1 =  open(file="prompt/心理短视频/Generate_article.txt", mode="r", encoding="utf-8").read()
+    file_prompt2 =  open(file="prompt/心理短视频/Generating_sub_mirror.txt", mode="r", encoding="utf-8").read()
     # 定义系统消息模板
     system_template = (
     f"{file_prompt1}\n" +
@@ -215,6 +215,7 @@ def main(topic:str="爱情三脚猫",keyframes:int=8):
         # 尝试从文本中提取答案和参考资料
         print("没发现json")
 
+    print(x)
 
 
     封面 = x.get('分镜结构').get("封面提示词")
@@ -268,7 +269,7 @@ def main(topic:str="爱情三脚猫",keyframes:int=8):
 
     # 1.5 生成分镜插画
     for scene in result:
-        prompt = ', '.join(scene['正向提示词'])
+        prompt = ','.join(scene['正向提示词'])
         img_path = text_to_image(prompt)
         print(img_path)
         scene['img'] = img_path
@@ -329,4 +330,4 @@ def main(topic:str="爱情三脚猫",keyframes:int=8):
 
 
 if __name__ == '__main__':
-    main("抑郁症",keyframes=3)
+    main("生活一直忘不掉初恋",keyframes=8)
