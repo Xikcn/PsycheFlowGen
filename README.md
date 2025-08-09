@@ -1,12 +1,10 @@
 # PsycheFlowGen
 AI工作流生成抖音爆款心理知识短视频（AI generates short videos of psychological knowledge）
-
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Xikcn/PsycheFlowGen)
 
-## 项目展示
+
+## 本项目展示
 https://github.com/user-attachments/assets/a076865c-08f9-438f-8246-db5ff04c2433
-
-
 
 ## 项目简介
 PsycheFlowGen 利用大语言模型（ChatDeepSeek）和 ComfyUI，自动生成心理学知识短视频的文案、分镜、配图、配音，并合成最终视频，适用于抖音等短视频平台。
@@ -16,7 +14,10 @@ https://github.com/Xikcn/ComicFlow-Engine
 
 具体效果（可见youtube作品）：https://youtu.be/wBCupT1kJes
 
-也可以采用阿里的CosyVoice代替edgetts，可以使用更好的音色体验。
+1. 可以采用阿里的CosyVoice代替edgetts，可以使用更好的音色体验。
+2. 采用其他图片生成模型也能得到更好体验，由于本机是6G显存因此图片效果一般，因此运行txt2video中脚本，可直接自己上传图片，代替comfyui生成，
+详细使用流程，可见网页说明。
+3. ...
 
 ## 功能特点
 - 自动生成主题文案并摘要提取关键词
@@ -80,6 +81,12 @@ python main.py
   - `cover.mp3` / `cover_frame.png`：封面配音及帧
   - `frame_X.png` / `scene_X.mp3`：每个分镜的图像和配音
   - `主题_镜头数.mp4`：最终合成的视频文件
+
+### 本项目只用于学习，想要实际进行副业建议使用coze+剪映小助手
+![workflowimg.png](md_ast/workflowimg.png)
+![jyxzs.png](md_ast/jyxzs.png)
+#### coze实际效果
+
 
 ## 许可证
 MIT License
