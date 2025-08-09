@@ -83,9 +83,10 @@ python main.py
   - `主题_镜头数.mp4`：最终合成的视频文件
 
 ### 本项目只用于学习，想要实际进行副业建议使用coze+剪映小助手
-![workflowimg.png](md_ast/workflowimg.png)
+![c2b00520-33e0-41d9-9142-684a257acbe3.png](md_ast/c2b00520-33e0-41d9-9142-684a257acbe3.png)
 ![jyxzs.png](md_ast/jyxzs.png)
 #### coze实际效果
+https://github.com/user-attachments/assets/1cb60c74-db02-419c-a0a0-d04ba7aeeb22
 
 
 ## 许可证
