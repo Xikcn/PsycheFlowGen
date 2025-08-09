@@ -330,4 +330,4 @@ def main(topic:str="爱情三脚猫",keyframes:int=8):
 
 
 if __name__ == '__main__':
-    main("生活一直忘不掉初恋",keyframes=8)
+    main("如何判断对人的滤镜",keyframes=8)
