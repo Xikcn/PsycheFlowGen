@@ -4,7 +4,9 @@ AI工作流生成抖音爆款心理知识短视频（AI generates short videos o
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Xikcn/PsycheFlowGen)
 
 ## 项目展示
-https://github.com/user-attachments/assets/72f1e2e2-7600-498d-9ca8-4e16df72328e
+https://github.com/user-attachments/assets/a076865c-08f9-438f-8246-db5ff04c2433
+
+
 
 ## 项目简介
 PsycheFlowGen 利用大语言模型（ChatDeepSeek）和 ComfyUI，自动生成心理学知识短视频的文案、分镜、配图、配音，并合成最终视频，适用于抖音等短视频平台。
@@ -12,7 +14,9 @@ PsycheFlowGen 利用大语言模型（ChatDeepSeek）和 ComfyUI，自动生成�
 ## 新项目（漫画转短视频）
 https://github.com/Xikcn/ComicFlow-Engine
 
-具体效果（可见抖音作品）：https://v.douyin.com/pg7BBFOVBUA/
+具体效果（可见youtube作品）：https://youtu.be/wBCupT1kJes
+
+也可以采用阿里的CosyVoice代替edgetts，可以使用更好的音色体验。
 
 ## 功能特点
 - 自动生成主题文案并摘要提取关键词
